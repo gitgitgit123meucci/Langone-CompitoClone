@@ -1,0 +1,30 @@
+   99  git clone https://github.com/sena-meucci/progettoStampa.git
+  100  l
+  101  cd progettoStampa/
+  102  code .
+  103  git user
+  104  git config user.name Vincenzo Langone
+  105  git config user.email provvisoria.langone.vincenzo@itismeucci.com
+  106  git status
+  107  git add .
+  108  git commit
+  109  git branch
+  110  git branch bugFix
+  111  git checkout bugFix 
+  112  git branc
+  113  git branch
+  114  git status
+  115  git add .
+  116  git status
+  117  git commit
+  118  git status
+  119  git add .
+  120  git commit
+  121  git checkout master
+  122  git branch
+  123  git merge bugFix 
+  124  git checkout
+  125  git branch
+  126  git branch -d bugFix 
+  127  git branch
+  128  history 30 > comandi.txt
